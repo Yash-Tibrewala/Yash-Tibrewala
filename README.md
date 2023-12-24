@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash-Tibrewala
-- 👀 I’m interested in  Data Analytics, SQL, Power BI , Excel
+- 👀 I’m interested in  Data Analytics, SQL, Power BI , Excel, Python
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me using Linkedin Link
 
